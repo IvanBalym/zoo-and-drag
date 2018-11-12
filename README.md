@@ -19,10 +19,10 @@ app will automatically run in web browser, or go to http://localhost:3000/
 
 # Time log :
 - creating and configuring the application build - **2h**
-- 'ZoomBox' component - **1h**
-- 'DragCircle' component - **1h**
+- 'ZoomBox' component - **30m**
+- 'DragCircle' component - **30m**
 - 'Buttons' component - **20m**
-- Logic and zoom handling (actions, reducers, css) - **3h**
-- readme - **1h**
+- Logic and zoom handling (actions, reducers, css) - **2h**
+- readme - **40m**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
